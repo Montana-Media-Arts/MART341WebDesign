@@ -4,15 +4,15 @@ email: admin@media-ed-online.com
 description: >
   Course content for an introductory look at building and designing for the web.
 lang: en-US
-apex: https://montana-media-arts.github.io/MART341-WebDesign/
+apex: https://montana-media-arts.github.io/MART341WebDesign/
 author:
   name: Brittany Westlund
   email: brittany.westlund@umconnect.umt.edu
 
-baseurl: "https://montana-media-arts.github.io/MART341-WebDesign/"
-url: https://montana-media-arts.github.io/MART341-WebDesign/
-git_address: https://github.com/Montana-Media-Arts/MART341-WebDesign
-git_edit_address: https://github.com/Montana-Media-Arts/MART341-WebDesign/blob/gh-pages
+baseurl: "https://montana-media-arts.github.io/MART341WebDesign/"
+url: https://montana-media-arts.github.io/MART341WebDesign/
+git_address: https://github.com/Montana-Media-Arts/MART341WebDesign
+git_edit_address: https://github.com/Montana-Media-Arts/MART341WebDesign/blob/gh-pages
 
 
 # Theme options from https://bootswatch.com/
