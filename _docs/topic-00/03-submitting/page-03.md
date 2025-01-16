@@ -9,10 +9,10 @@ tags: github, help, issues
 <div class="divider-heading"></div>
 
 
-The absolute best way to ask for help in this course is to:
+The best way to ask for help in this course is to:
 
-1. Send me a message via the Canvas inbox feature.
-2. Email me via your student e-mail.
+1. Send me a message via the Canvas inbox feature
+2. Email me via your student e-mail
 
 <!--
 ## Contributing
