@@ -22,7 +22,7 @@ categories: uncategorized
   <div class="col-lg-4">
     <div class="bs-component">
       <div class="list-group">
-        <a href="{{ site.git_address | append: "-resources/issues/" }}" target="_blank" class="list-group-item">
+        <a href="https://docs.github.com/en" target="_blank" class="list-group-item">
           <i class="icon-hw fas fa-comments" aria-hidden="true"></i>
           <h4 class="list-group-item-heading">Explore, Star, Watch, and Post</h4>
           <div class="divider-hw"></div>
