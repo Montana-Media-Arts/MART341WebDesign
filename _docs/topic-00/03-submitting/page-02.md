@@ -20,11 +20,10 @@ To begin, you need to register with <a href="https://github.com/" target="_blank
 <span class="label label-info">Note:</span> Please choose a username that you are comfortable with being part of your publicly-visible URL. I recommend making it something that you are okay sharing with others. This is a common question from prospective employers who want a link to your GitHub repository, and if it's not professional, you may not want to share it.  Here are some examples.
 
 <ul class="pros-and-cons">
-  <li class="icon-pro">brittanywestlund</li>
-  <li class="icon-pro">bwestlund</li>
-  <li class="icon-pro">westlund-mt</li>
-  <li class="icon-con">unicorn456</li>
-  <li class="icon-con">qwerty123</li>
+  <li class="icon-pro">johndoe</li>
+  <li class="icon-pro">jdoe</li>
+  <li class="icon-pro">doejohn</li>
+  <li class="icon-con">john-doe</li>
 </ul>
 
 Your username will be publicly available and often used for many things throughout this course (i.e., homework) and your entire time on GitHub.
