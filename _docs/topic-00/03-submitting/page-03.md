@@ -9,13 +9,12 @@ tags: github, help, issues
 <div class="divider-heading"></div>
 
 
-The absolute best way to ask for help in this course is to utilize the <a href="{{ site.git_address }}-resources/issues/" target="_blank">Issues board</a> feature. This is ideal because:
+The absolute best way to ask for help in this course is to:
 
-1. Everyone has access to your question and can help respond.
-2. It is easier for your instructor to reply to Issues than to e-mails.
-3. If you push changes to GitHub, your instructor has access to your code and can provide _specific_ solutions, when/where/how directly into your site code.
+1. Send me a message via the Canvas inbox feature.
+2. Email me via your student e-mail.
 
-
+<!--
 ## Contributing
 As the semester progresses, you should open issues whenever you encounter problems.
 
@@ -27,3 +26,4 @@ There's no need to comment on the example issue below. Instead, reply to the Wee
 <a href="https://umontanamediaarts.com/MART341/wp-admin/admin-ajax.php?action=h5p_embed&id=14" class="btn btn-default btn-xs" target="_blank">View Larger</a>
 <!--<iframe src="https://h5p.org/h5p/embed/416838" width="1090" height="794" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <a href="https://h5p.org/node/416838" class="btn btn-default btn-xs" target="_blank">View Larger</a>-->
+-->
