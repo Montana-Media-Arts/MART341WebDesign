@@ -1,18 +1,18 @@
 # Site Settings
-title: MART 341 Intro-Web-Dev
+title: MART 341 Intro-Web-Design
 email: admin@media-ed-online.com
 description: >
   Course content for an introductory look at building and designing for the web.
 lang: en-US
-apex: https://montana-media-arts.github.io/webDesignFall2024/
+apex: https://montana-media-arts.github.io/MART341-WebDesign/
 author:
   name: Brittany Westlund
   email: brittany.westlund@umconnect.umt.edu
 
-baseurl: "https://montana-media-arts.github.io/webDesignFall2024/"
-url: https://montana-media-arts.github.io/webDesignFall2024/
-git_address: https://github.com/Montana-Media-Arts/webDesignFall2024
-git_edit_address: https://github.com/Montana-Media-Arts/webDesignFall2024/blob/gh-pages
+baseurl: "https://montana-media-arts.github.io/MART341-WebDesign/"
+url: https://montana-media-arts.github.io/MART341-WebDesign/
+git_address: https://github.com/Montana-Media-Arts/MART341-WebDesign
+git_edit_address: https://github.com/Montana-Media-Arts/MART341-WebDesign/blob/gh-pages
 
 
 # Theme options from https://bootswatch.com/
