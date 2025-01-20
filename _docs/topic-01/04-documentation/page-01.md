@@ -13,7 +13,7 @@ As you just read in “<a href="../web-files-text">Text Documents</a>”, said *
 
 
 ## Creating plain text files
-Text files can be created and edited using a **“text editor,”** which is any application for editing ASCII text documents. <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
+Text files can be created and edited using a **“text editor,”** which is an application for editing ASCII text documents. <a href="https://atom.io/" target="_blank">Atom</a>, <a href="https://code.visualstudio.com/download">VS Code</a>, <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>, and <a href="http://brackets.io/" target="_blank">Brackets</a> are popular options among web developers.
 
 The default applications on Mac and Windows are the following:
 
@@ -46,7 +46,7 @@ The downside to this format is that you cannot open this file in a basic text ed
 
 ## What are other types of plain text-based files?
 
-Well, as you might guess, most computer languages are saved as plain text or ASCII files. However, they often have different extensions. These extensions provide information to the computer and the user as to ‘how’ the file may be used or _compiled_.
+Well, as you might guess, most computer languages are saved as plain text or ASCII files. However, they often have different extensions. These extensions provide information to the computer and the user about ‘how’ the file may be used or _compiled_.
 
 In this class, we will be using the following text file types;
 
