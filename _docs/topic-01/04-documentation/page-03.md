@@ -15,7 +15,7 @@ tags: directory, github, markdown, readme
 
 
 ## Files and Directories
-Placing the `README.md` file in the repository's root directory results in GitHub recognizing and automatically displaying the README to repository visitors - meaning it's the first thing they'll see, with no extra clicking.
+Placing the `README.md` file in the repository's root directory causes GitHub to recognize and automatically display the README to repository visitors. This means it's the first thing they'll see, with no extra clicking.
 
 <div class="code-heading">
   <span>Directory Tree</span>
