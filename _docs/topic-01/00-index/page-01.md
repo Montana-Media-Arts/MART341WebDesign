@@ -17,7 +17,7 @@ This topic is all about files and directories!
 
 This section describes different files and directories and how they play an essential part in web design and development.
 
-By the end of this Topic, we hope you:
+By the end of this topic, we hope you:
 
 <ul class="pros-and-cons">
   <li class="icon-pro">Understand different file types and directory structures.</li>
