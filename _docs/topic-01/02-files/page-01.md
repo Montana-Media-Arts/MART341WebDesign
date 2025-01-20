@@ -9,9 +9,9 @@ tags: design, file, page
 <div class="divider-heading"></div>
 
 
-Web designers create sites using all types of files, including `.html`, `.css`, `.php`, `.aspx`, and more. How one creates and saves files affects their processing; a `.css` file does not display the same as an `.html` web page.
+Web designers create sites using all types of files, including `.html`, `.css`, `.php`, `.aspx`, and more. How one creates and saves files affects their processing; a `.css` file does not display the same as a `.html` web page.
 
-Websites require `.html` (or other web) ** Pages** because they contain the site's visible content. Furthermore, pages typically access other files (such as images and other media) using hyperlinks, embeds, and more, which we will cover in greater detail.
+Websites require `.html` (or other web) **Pages** because they contain the site's visible content. Furthermore, pages typically access other files (such as images and other media) using hyperlinks, embeds, and more, which we will cover in greater detail.
 
 
 <div class="divider-pg"></div>
@@ -43,7 +43,7 @@ Websites require `.html` (or other web) ** Pages** because they contain the site
   </div>
   <div class="col-lg-10">
     <h3><b>C</b>ascading <b>S</b>tyle <b>S</b>heet (<b>CSS</b>)</h3>
-    <p>CSS controls the page's appearance and responds to different display types. CSS is used to “decorate” the site. For example, CSS provides layout, color, interactive elements, fonts, and other formatting. HTML provides the page's contents, and CSS specifies the site's appearance. Using a stylesheet greatly speeds up development time, as a single sheet can affect all pages in the site.</p>
+    <p>CSS controls the page's appearance and responds to different display types. CSS is used to “decorate” the site. For example, CSS provides layout, color, interactive elements, fonts, and other formatting. HTML provides the page's contents, and CSS specifies the site's appearance. Using a stylesheet greatly speeds up development time, as a single sheet can affect all pages on the site.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Speed and consistency in styling pages site-wide.</li>
