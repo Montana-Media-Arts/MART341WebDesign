@@ -22,7 +22,7 @@ tags: design, file, text
   </div>
   <div class="col-lg-10">
     <h3>Text (<b>TXT</b>)</h3>
-    <p>Plain text files are the simplest way of creating and storing information. Everything is stored as text, even numeric values. This is great for lightweight documentation, but excludes the use of rich content, like style or images.</p>
+    <p>Plain text files are the simplest way of creating and storing information. Everything is stored as text, even numeric values. This is great for lightweight documentation but excludes the use of rich content, like style or images.</p>
 
     <ul class="pros-and-cons">
       <li class="icon-pro">Widely available.</li>
