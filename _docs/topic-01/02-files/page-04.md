@@ -9,7 +9,7 @@ tags: design, file, script
 <div class="divider-heading"></div>
 
 
-**Scripts** add website functionality by running on the client (your browser) or the server (think Amazon's computer).  Scripts are what makes sites interesting and dynamic.
+**Scripts** add website functionality by running on the client (your browser) or the server (think Amazon's computer). Scripts are what makes sites interesting and dynamic.
 
 
 <div class="divider-pg"></div>
