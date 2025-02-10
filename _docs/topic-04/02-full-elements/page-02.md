@@ -36,7 +36,7 @@ Compare this to Markdown:
 
 `<h1>` headings are _main headings_, while `<h2>` headings are usually considered _sub-headings_ and so forth, through `<h6>`.
 
-<span class="label label-info">Note</span> By default, browsers will display headings with decreasing font size. However, we will explicitly style headings using CSS rules and definitions, later preventing any un-expected rendering of the web document content.
+<span class="label label-info">Note</span> By default, browsers will display headings with decreasing font size. However, we will explicitly style headings using CSS rules and definitions, later preventing any unexpected rendering of the web document content.
 
 
 <div class="external-embed">
