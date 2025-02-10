@@ -8,7 +8,7 @@ tags: break, empty, horizontal, rule
 
 <div class="divider-heading"></div>
 
-A **horizontal rule** is a line that runs across the browser window. These can be used to visually differentiate content in a document.
+A **horizontal rule** is a line that runs across the browser window. These can be used to differentiate content in a document visually.
 
 <div class="code-heading">
   <span class="html">HTML</span>
@@ -38,7 +38,7 @@ This is a paragraph.
 This is another paragraph.
 ```
 
-Horizontal rules cleanly create boundaries between content, and span the width of the page (or browser, if full width).
+Horizontal rules cleanly create boundaries between content and span the width of the page (or browser, if it's full width).
 
 
 <div class="external-embed">
