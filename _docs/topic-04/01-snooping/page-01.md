@@ -9,20 +9,20 @@ tags: browser, source, view, website
 <div class="divider-heading"></div>
 
 
-A great way to learn website development is to see it in action. All internet browsers allow viewing of a site's core code allowing visitors to explore how other developers make their sites.
+A great way to learn website development is to see it in action. All internet browsers allow visitors to view a site's core code, allowing them to explore how other developers create their sites.
 
 One invaluable way of doing this is “**view-source**,” or viewing the site's source code. This way of snooping shows the code _exactly_ as it was delivered from the server to the browser, which has its pros and cons:
 
 <ul class="pros-and-cons">
   <li class="icon-pro">Quick and easy view; legible and exact.</li>
-  <li class="icon-pro">May “catch” invalid code, and show what needs correcting.</li>
+  <li class="icon-pro">May “catch” invalid code and show what needs correcting.</li>
   <li class="icon-con">Does not show how the DOM <i>actually</i> built the page.</li>
 </ul>
 
 
 ## Chrome
 In <a href="https://www.google.com/chrome/" target="_blank">Chrome</a>:
-1. Right click in an empty area of the page.
+1. Right-click in an empty area of the page.
 2. Select "View Source."
 
 <img src="../img/chrome-view-source.png" alt="using the view source feature in Chrome" title="View Source in Chrome" />
@@ -33,7 +33,7 @@ In <a href="https://www.google.com/chrome/" target="_blank">Chrome</a>:
 
 ## Firefox
 In <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a>:
-1. Right click in an empty area of the page.
+1. Right-click in an empty area of the page.
 2. Select "View Source."
 
 <img src="../img/firefox-view-source.png" alt="using the view source feature in Firefox" title="View Source in Firefox" />
