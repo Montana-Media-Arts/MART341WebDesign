@@ -11,7 +11,7 @@ tags: app, github, guide, install
 
 <span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to completely load.
 
-"GUI" applications (pronounced "gooey"), or **graphical user interface** applications, allow users to interact with a device through visual indicators (often icons and menus) rather than CLIs (**command-line interfaces**).
+GUI applications (pronounced "gooey"), or **graphical user interface** applications, allow users to interact with a device through visual indicators (often icons and menus) rather than CLIs (command-line interfaces).
 
 <img src="../img/logo-gh-desktop.png" alt="GitHub Desktop app logo" />
 
