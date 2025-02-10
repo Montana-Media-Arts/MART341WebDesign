@@ -8,7 +8,7 @@ tags: break, empty
 
 <div class="divider-heading"></div>
 
-Like you saw in [Using Spaced Paragraphs](../breaks-paragraphs), if you want more control over how the contents of a paragraph appear, you can force a line break inside a paragraph using the **break** tag (`<br />`).
+As you saw in [Using Spaced Paragraphs](../breaks-paragraphs), if you want more control over how the contents of a paragraph appear, you can force a line break inside a paragraph using the **break** tag (`<br />`).
 
 
 <div class="code-heading">
@@ -17,7 +17,7 @@ Like you saw in [Using Spaced Paragraphs](../breaks-paragraphs), if you want mor
 ```html
 <p>This is the first line in the paragraph.
 <br />
-Using a line break element, this is a separate line in the same paragraph.</p>
+This is a separate line in the same paragraph using a line break element.</p>
 ```
 
 Compare this to Markdown:
@@ -26,9 +26,9 @@ Compare this to Markdown:
 <div class="code-heading">
   <span class="md">Markdown</span>
 </div>
-```markdwon
+```markdown
 This is the first line in the paragraph.
-Separated by a single newline, this is a separate line in the same paragraph.
+Separated by a single new line, this is a separate line in the same paragraph.
 ```
 
 
