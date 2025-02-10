@@ -41,7 +41,7 @@ Any text between the paragraph tags `<p>...</p>` belongs to the same paragraph. 
 
 You'll notice that when using Markdown, empty lines create paragraphs and provide a cushion between one paragraph and the next. HTML does not do this.
 
-With HTML, paragraphs tags create paragraphs, and browsers automatically add cushion above and below paragraph elements.
+With HTML, paragraph tags create paragraphs, and browsers automatically add cushion above and below paragraph elements.
 
 
 <div class="external-embed">
@@ -54,9 +54,9 @@ With HTML, paragraphs tags create paragraphs, and browsers automatically add cus
 
 <div class="divider-heading"></div>
 
-By default, browsers remove empty spaces from paragraph element blocks. Browsers mimic this behavior with spaces and extra blank lines too. You need to be aware that you cannot change the output of your rendered HTML code by adding additional spaces or lines unless you code for them; merely pressing the space bar or return does not result in a new space or newline.
+By default, browsers remove empty spaces from paragraph element blocks. Browsers mimic this behavior with spaces and extra blank lines, too. Please know that you cannot change the output of your rendered HTML code by adding additional spaces or lines unless you code for them; simply pressing the space bar or return does not result in a new space or new line.
 
-You can see this below, where the first several paragraphs display as single lines. Using the **line break**, or the `<br />` tag moves the cursor to the next line within the paragraph element.
+You can see this below, where the first several paragraphs are displayed as single lines. Using the **line break** or the `<br />` tag moves the cursor to the next line within the paragraph element.
 
 <div class="external-embed">
   <p data-height="600" data-theme-id="30567" data-slug-hash="qXwEbW" data-default-tab="html,result" data-user="Media-Ed-Online" data-pen-title="HTML Paragraphs and Line Breaks" class="codepen"></p>
