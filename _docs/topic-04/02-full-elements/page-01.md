@@ -8,7 +8,7 @@ tags: elements, tags
 
 <div class="divider-heading"></div>
 
-Most HTML elements consist of two tags: an **opening tag** and **closing tag**, with related content wrapped in-between.
+Most HTML elements consist of two tags: an **opening tag** and **closing tag**, with related content wrapped in between.
 
 <div class="row callout-columns status-info">
   <div class="col-lg-3">
