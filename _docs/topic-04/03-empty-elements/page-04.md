@@ -8,7 +8,7 @@ tags: empty, image
 
 <div class="divider-heading"></div>
 
-We will get into images much later in the course, but you can already add images to your new HTML files by using a little borrowed code. Like the others in this section, the image tag, `<img />`, creates an empty element. `src=""` tells the browser the location of the image or the URL to the file.
+We'll get into images much later in the course, but you can already add them to your new HTML files by using a little borrowed code. Like the others in this section, the image tag, `<img />`, creates an empty element. `src=""` tells the browser the location of the image or the URL to the file.
 
 Please note that instead of wrapping the URL in parentheses (`(...)`) as we do in Markdown, in HTML, we use quotations (`"..."`) to contain the URL to the file.
 
