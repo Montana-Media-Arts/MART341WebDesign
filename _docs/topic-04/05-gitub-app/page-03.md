@@ -9,7 +9,7 @@ tags: app, github, guide, repository
 <div class="divider-heading"></div>
 
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to load completely.
 
 GitHub Desktop can be your portal between your local computer and GitHub.com.
 
