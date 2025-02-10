@@ -9,7 +9,7 @@ tags: app, guide, push, track, vcs
 <div class="divider-heading"></div>
 
 
-<span class="label label-warning">Load Time</span> This page contains embedded interactive content. In may take 3-10 seconds to completely load.
+<span class="label label-warning">Load Time</span> This page contains embedded interactive content. It may take 3-10 seconds to load completely.
 
 Your workflow will now consist of creating new files and folders on your local computer, saving files, "pushing" changes, and viewing updates on <a href="" target=" _blank ">GitHub.com</a>.
 
