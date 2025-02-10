@@ -16,7 +16,7 @@ In computing, a **hyperlink**, or merely a link, refers to data that the reader 
 
 
 ## Hypertext
-**Hypertext** is text with hyperlinks. The text that is linked is called _anchor text_. A software system used for viewing and creating Hypertext is a hypertext system, and to create a hyperlink is to hyperlink (or to link). A user following hyperlinks is said to navigate or browse the Hypertext. [<sup>\[1]</sup>](https://en.wikipedia.org/wiki/Hyperlink "Wikipedia - Hyperlink")
+**Hypertext** is text with hyperlinks. The text that is linked is called _anchor text_. A software system used for viewing and creating hypertext is a hypertext system, and to create a hyperlink is to hyperlink (or to link). A user following hyperlinks is said to navigate or browse the Hypertext. [<sup>\[1]</sup>](https://en.wikipedia.org/wiki/Hyperlink "Wikipedia - Hyperlink")
 
 <span class= "label label-info">Note</span> Link text should be specific about where the user will be going if they click a link. Link text **should not** be simple text such as "Click Me!" Instead, the correct style would dictate that the link text be a description of the site, name, or information that informs the user.
 
