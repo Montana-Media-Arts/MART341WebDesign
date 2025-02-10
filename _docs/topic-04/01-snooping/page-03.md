@@ -11,7 +11,7 @@ tags: browser, history, website
 
 <img src="../img/google-classic.jpg" alt="Google as a snail-mail service" title="Google Classic!" style="width: 600px"/>
 
-Yet another resource is **internet archives.** Internet Archives may not be the best resource for learning how to code a website, but it does allow you to get a sense of how a company may have viewed their brand over time, how the web used to look or retrieve information from the past that is no longer live.
+Yet another resource is the **Internet Archives.** Although it may not be the best resource for learning how to code a website, the Internet Archives allows you to get a sense of how a company may have viewed its brand over time, how the web used to look, and/or retrieve information from the past, that is no longer live.
 
 
 <div class="divider-pg"></div>
