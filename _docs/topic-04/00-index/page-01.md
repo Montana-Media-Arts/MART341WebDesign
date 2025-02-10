@@ -15,7 +15,7 @@ tags:
 
 As you may have guessed, uploading file-by-file is not the best way to develop for the web. Instead, you can develop _natively_ (at home on your computer) and _push_ files to the web change-by-change. Applications like <a href="https://desktop.github.com/" target="_blank">GitHub Desktop</a> allow you to expand your workflow beyond the browser, collaborate with others, track changes, and access files from anywhere.  Expanding your workflow is an essential process as you begin developing multi-page _websites_.
 
-By the end of this Topic, we hope you:
+By the end of this topic, we hope you:
 <ul class="pros-and-cons">
   <li class="icon-pro">Have expanded your understanding of how HTML fits within the scope of webpages.</li>
   <li class="icon-pro">Experimented with performing, tracking, and visualizing changes to files between your local drive and GitHub.</li>
